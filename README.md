@@ -1,1 +1,1 @@
-database script bot telegram 
+database script bot telegram by @jeanofficial
